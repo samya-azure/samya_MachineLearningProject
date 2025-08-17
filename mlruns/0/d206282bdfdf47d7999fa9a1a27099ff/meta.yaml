@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MachineLearning_Project/mlruns/0/d206282bdfdf47d7999fa9a1a27099ff/artifacts
+end_time: 1749819195095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d206282bdfdf47d7999fa9a1a27099ff
+run_name: melodic-moose-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749819190110
+status: 3
+tags: []
+user_id: samya.basu

@@ -1,0 +1,19 @@
+﻿# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environments
+machinelearn_env/
+venv/
+.env/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db

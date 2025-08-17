@@ -1,0 +1,6 @@
+
+1. To run the MlFlow:
+mlflow ui
+
+2. Then open the Browser and enter the below URL:
+http://127.0.0.1:5000

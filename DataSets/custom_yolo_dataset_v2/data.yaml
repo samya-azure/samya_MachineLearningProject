@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Cat', 'Dog']
+
+roboflow:
+  workspace: cats-and-dogs-detection
+  project: object-detection-cat-and-dogs
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cats-and-dogs-detection/object-detection-cat-and-dogs/dataset/3
